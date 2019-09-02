@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 
 import java.util.Arrays;
 
-@Component
+//@Component
 public class DataInitializer implements ApplicationRunner {
 
     @Autowired
